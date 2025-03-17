@@ -1,4 +1,4 @@
-# big-data-analysis
+# Big Data Analysis
 
 This repository contains SQL files, Python notebooks containing logic for analysis done on big data 
 
